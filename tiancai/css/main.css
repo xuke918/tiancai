@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 'Merriweather', serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+
+}
+
+ol{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  overflow: hidden;
+}
+
+a{
+
+  text-decoration: none;
+}
